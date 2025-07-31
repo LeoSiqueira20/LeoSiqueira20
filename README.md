@@ -15,10 +15,10 @@
 Site baseado em um jogo FPS que criei com meus amigos para o TCC.
 
 🛒 AppFlutterCommercy  
-Aplicativo de e-commerce feito com Flutter (Dart) como forma de treino em mobile.
+Aplicativo de e-commerce feito com Flutter (Dart) como forma de treino em desenvolvimento mobile
 
-🏺 E-commercy de cerâmicas  
-Projeto web usando Laravel (PHP) para um grupo de administração no meu curso técnico.
+🛍️ E-commerce em Laravel - Cerâmicas
+Projeto feito com PHP (Laravel) para um grupo de Administração no curso técnico.
 
 ## 📫 Contato
 - Instagram: [@leonardo9cs](https://instagram.com/leonardo9cs)  
